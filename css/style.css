@@ -123,3 +123,148 @@ border-radius: 4%;
 
 
 /* section3 styles */
+
+
+
+.section-3{
+    background-color:white;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-left: 7em;
+
+
+
+}
+
+.button{
+    background-color: #ff7a59;
+    border: none;
+
+
+}
+
+.contents{
+margin-left:100px;
+margin-top: 50px;
+}
+
+
+
+
+.button{
+
+    padding: 4em;
+    width: 400px;
+    
+}
+
+
+.section-content{
+display: flex;
+justify-content: space-between;
+width: 100%;
+
+}
+
+
+.logo-20{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+flex-direction: row;
+width: 50%;
+margin: 0 4em;
+align-items: center;
+
+
+}
+
+footer{
+
+    background-color:#2D3E50 ;
+
+
+}
+
+.footer-container {
+    display: flex;
+    padding: 1em;
+
+}
+
+.popular-content{
+    display: flex;
+}
+
+
+
+.popular-content ul li a{
+color: white;
+}
+
+
+.popular h4 a{
+color: white;
+
+}
+
+
+.popular{
+border-right:1px solid  white;
+padding: 1em;
+
+
+}
+
+
+
+
+
+footer h4 a{
+
+    color: white;
+    padding-left: 2.5em;
+}
+
+
+
+footer ul li{
+list-style-type: none;
+padding: 0.5em 0;
+}
+
+footer ul li a{
+
+    text-decoration: none;
+}
+
+
+
+
+
+.free-tools ul li a{
+color: white;
+
+}
+
+
+.Customer-tools ul li a{
+color: white;
+
+}
+
+
+.Company-tools ul li a{
+color: white;
+
+}
+
+
+
+.partner-tools ul li a{
+
+    color: white;
+}
+
+
